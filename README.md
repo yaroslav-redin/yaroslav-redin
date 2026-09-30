@@ -19,6 +19,8 @@
 Программный инженер. Специализируюсь на разработке **веб-приложений** полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. <br> Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tiles/about-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/tiles/about-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/tiles/about-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/tiles/about-light.svg">
   <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
