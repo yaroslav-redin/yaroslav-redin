@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/waving-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banners/waving-header-light.svg">
-  <img alt="" src="assets/banners/waving-header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8b5cf6,50:a78bfa,100:c4b5fd">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,35:ede9fe,70:c4b5fd,100:8b5cf6">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8b5cf6,50:a78bfa,100:c4b5fd" width="100%">
 </picture>
 
 <p align="center">
@@ -19,31 +19,28 @@
   <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
 </picture>
 
-## <img src="assets/icons/user.svg" width="22" height="22" alt=""> О себе
+## <img src="https://api.iconify.design/line-md/account.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> О себе
 
 Программный инженер. Специализируюсь на разработке **веб-приложений** полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. <br> Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tiles/about-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/tiles/about-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tiles/about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tiles/about-light.svg">
-  <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
-</picture>
+- <img src="https://api.iconify.design/line-md/compass-loop.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД
+- <img src="https://api.iconify.design/line-md/lightbulb-twotone.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач
+- <img src="https://api.iconify.design/line-md/cellphone.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter
+- <img src="https://api.iconify.design/line-md/gauge-loop.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных
 
-## <img src="assets/icons/briefcase1.svg" width="22" height="22" alt=""> Карьера
+## <img src="https://api.iconify.design/line-md/briefcase.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Карьера
 
 **Разработчик CRM-систем** · <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
 
-## <img src="assets/icons/graduation-cap.svg" width="22" height="22" alt=""> Образование
+## <img src="https://api.iconify.design/line-md/document-list.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Образование
 
 **Магистратура** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2026 — 2028</sub> <br> <br>
 **Бакалавриат** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2022 — 2026</sub><br>
 
-## <img src="assets/icons/layers.svg" width="22" height="22" alt=""> Технологический стек
+## <img src="https://api.iconify.design/line-md/grid-3.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Технологический стек
 
 **Backend**
 
@@ -70,12 +67,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## <img src="assets/icons/folder-git-2.svg" width="22" height="22" alt=""> Проекты
+## <img src="https://api.iconify.design/line-md/github-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
 
 **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы. <br> <br>
 **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter. <br>
 
-## <img src="assets/icons/activity.svg" width="22" height="22" alt=""> Статистика GitHub
+## <img src="https://api.iconify.design/line-md/speedometer-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
 
 <p align="center">
   <picture>
@@ -93,7 +90,7 @@
   </picture>
 </p>
 
-## <img src="assets/icons/mail.svg" width="22" height="22" alt=""> Контакты
+## <img src="https://api.iconify.design/line-md/email.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
 
 Открыт к сотрудничеству и интересным проектам.
 
@@ -103,7 +100,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/waving-footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banners/waving-footer-light.svg">
-  <img alt="" src="assets/banners/waving-footer-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c4b5fd,50:a78bfa,100:8b5cf6">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,30:c4b5fd,65:ede9fe,100:ffffff">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c4b5fd,50:a78bfa,100:8b5cf6" width="100%">
 </picture>
