@@ -19,36 +19,11 @@
 
 Программный инженер, выпускник бакалавриата **МГУ им. Н. П. Огарёва**. Специализируюсь на разработке веб-приложений полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
-<table width="100%">
-<tr>
-<td width="100%">
-<img src="assets/icons/compass.svg" width="36" height="36" align="left" alt="">
-<b>Full-stack веб-разработка</b><br>
-<sub>Laravel + Vue.js, REST API, реляционные СУБД</sub>
-</td>
-</tr>
-<tr>
-<td width="100%">
-<img src="assets/icons/lightbulb-twotone.svg" width="36" height="36" align="left" alt="">
-<b>Machine Learning</b><br>
-<sub>Языковые модели, их обучение и алгоритмы для прикладных задач</sub>
-</td>
-</tr>
-<tr>
-<td width="100%">
-<img src="assets/icons/cellphone.svg" width="36" height="36" align="left" alt="">
-<b>Мобильная разработка</b><br>
-<sub>Кроссплатформенные приложения на Flutter</sub>
-</td>
-</tr>
-<tr>
-<td width="100%">
-<img src="assets/icons/gauge.svg" width="36" height="36" align="left" alt="">
-<b>Аналитика данных</b><br>
-<sub>Обработка, визуализация и интерпретация данных</sub>
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tiles/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tiles/about-light.svg">
+  <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
+</picture>
 
 ## <img src="assets/icons/briefcase.svg" width="22" height="22" alt=""> Карьера
 
