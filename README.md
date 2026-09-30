@@ -24,7 +24,7 @@
   <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
 </picture>
 
-## <img src="assets/icons/briefcase.svg" width="22" height="22" alt=""> Карьера
+## <img src="assets/icons/briefcase1.svg" width="22" height="22" alt=""> Карьера
 
 <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · Разработчик CRM-систем · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
