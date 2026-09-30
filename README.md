@@ -5,7 +5,10 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL" alt="Typing SVG">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=340&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL" alt="Typing SVG">
+  </picture>
 </p>
 
 <picture>
