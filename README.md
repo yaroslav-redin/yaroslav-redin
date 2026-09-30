@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,100:8b5cf6&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=1f2328&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
-  <img alt="Редин Ярослав Александрович" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,35:2e1065,70:6d28d9,100:a78bfa&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,35:ede9fe,70:c4b5fd,100:8b5cf6&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=1f2328&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
+  <img alt="Редин Ярослав Александрович" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,35:2e1065,70:6d28d9,100:a78bfa&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
 </picture>
 
 <p align="center">
@@ -15,28 +15,28 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/user.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> О себе
+## <img src="assets/icons/account.svg" width="22" height="22" alt=""> О себе
 
 Программный инженер, выпускник бакалавриата **МГУ им. Н. П. Огарёва**. Специализируюсь на разработке веб-приложений полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
-<img src="https://api.iconify.design/lucide/globe.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД <br>
-<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач <br>
-<img src="https://api.iconify.design/lucide/smartphone.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter <br>
-<img src="https://api.iconify.design/lucide/chart-line.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных <br>
+<img src="assets/icons/compass.svg" width="16" height="16" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД <br>
+<img src="assets/icons/lightbulb-twotone.svg" width="16" height="16" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач <br>
+<img src="assets/icons/cellphone.svg" width="16" height="16" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter <br>
+<img src="assets/icons/gauge.svg" width="16" height="16" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных <br>
 
-## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Карьера
+## <img src="assets/icons/briefcase.svg" width="22" height="22" alt=""> Карьера
 
 <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · Разработчик CRM-систем · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
 
-## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Образование
+## <img src="assets/icons/document-list.svg" width="22" height="22" alt=""> Образование
 
 **Магистратура** · МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2026 — 2028</sub> <br> <br>
 **Бакалавриат** · МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2022 — 2026</sub><br>
 
-## <img src="https://api.iconify.design/lucide/layers.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Технологический стек
+## <img src="assets/icons/grid-3.svg" width="22" height="22" alt=""> Технологический стек
 
 **Backend**
 
@@ -63,12 +63,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
+## <img src="https://api.iconify.design/line-md/github-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
 
 **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы. <br> <br>
 **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter. <br>
 
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
+## <img src="https://api.iconify.design/line-md/speedometer-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
 
 <p align="center">
   <picture>
@@ -86,7 +86,7 @@
   </picture>
 </p>
 
-## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
+## <img src="assets/icons/email.svg" width="22" height="22" alt=""> Контакты
 
 Открыт к сотрудничеству и интересным проектам.
 
@@ -94,7 +94,7 @@
 <img src="https://img.shields.io/badge/-Email-8b5cf6?style=flat&logo=gmail&logoColor=white" alt=""> [yaroslavredin04@gmail.com](mailto:yaroslavredin04@gmail.com) <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:0d1117&text=Спасибо%20за%20визит!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,100:ffffff&text=Спасибо%20за%20визит!&fontSize=22&fontColor=1f2328&fontAlignY=70&animation=twinkling">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:0d1117&animation=twinkling">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,30:6d28d9,65:2e1065,100:0d1117&text=Спасибо%20за%20визит!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,30:c4b5fd,65:ede9fe,100:ffffff&text=Спасибо%20за%20визит!&fontSize=22&fontColor=1f2328&fontAlignY=70&animation=twinkling">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,30:6d28d9,65:2e1065,100:0d1117&animation=twinkling">
 </picture>
