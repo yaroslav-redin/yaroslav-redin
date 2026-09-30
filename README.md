@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8b5cf6,50:a78bfa,100:c4b5fd">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,35:ede9fe,70:c4b5fd,100:8b5cf6">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8b5cf6,50:a78bfa,100:c4b5fd">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/waving-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banners/waving-header-light.svg">
+  <img alt="" src="assets/banners/waving-header-dark.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -103,7 +103,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c4b5fd,50:a78bfa,100:8b5cf6">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,30:c4b5fd,65:ede9fe,100:ffffff">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c4b5fd,50:a78bfa,100:8b5cf6">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/waving-footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banners/waving-footer-light.svg">
+  <img alt="" src="assets/banners/waving-footer-dark.svg" width="100%">
 </picture>
