@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL;Machine%20Learning%20%26%20Data%20Analytics" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <a href="https://t.me/sigmaslav_13"><img src="https://img.shields.io/badge/Telegram-@sigmaslav__13-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:yaroslavredin04@gmail.com"><img src="https://img.shields.io/badge/Email-yaroslavredin04@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 ---
 
 ## <img src="assets/icons/account.svg" width="22" height="22" alt=""> О себе
@@ -91,8 +86,10 @@
 
 Открыт к сотрудничеству и интересным проектам.
 
-<img src="https://img.shields.io/badge/-Telegram-8b5cf6?style=flat&logo=telegram&logoColor=white" alt=""> [@sigmaslav_13](https://t.me/sigmaslav_13) <br>
-<img src="https://img.shields.io/badge/-Email-8b5cf6?style=flat&logo=gmail&logoColor=white" alt=""> [yaroslavredin04@gmail.com](mailto:yaroslavredin04@gmail.com) <br>
+<p align="center">
+  <a href="https://t.me/sigmaslav_13"><img src="https://img.shields.io/badge/Telegram-@sigmaslav__13-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:yaroslavredin04@gmail.com"><img src="https://img.shields.io/badge/Email-yaroslavredin04@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,30:6d28d9,65:2e1065,100:0d1117&text=Спасибо%20за%20визит!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling">
