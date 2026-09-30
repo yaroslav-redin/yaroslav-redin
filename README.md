@@ -1,9 +1,12 @@
-<!-- ===== Шапка ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,100:8b5cf6&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=1f2328&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60">
-  <img alt="Редин Ярослав Александрович" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,100:8b5cf6&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=1f2328&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
+  <img alt="Редин Ярослав Александрович" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
 </picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack+веб-разработчик;Laravel+·+Vue.js+·+PostgreSQL;Machine+Learning+%26+Data+Analytics;Разработчик+CRM-систем+в+«Лонг+Кэт»" alt="Typing SVG">
+</p>
 
 <p align="center">
   <a href="https://t.me/sigmaslav_13"><img src="https://img.shields.io/badge/Telegram-@sigmaslav__13-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -62,40 +65,10 @@
 
 ## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
 
-<p align="center">
-  <a href="https://github.com/yaroslav-redin/analytics_reports">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=analytics_reports&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=7c3aed">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=analytics_reports&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&border_color=8b5cf6">
-      <img alt="analytics_reports" src="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=analytics_reports">
-    </picture>
-  </a>
-  <a href="https://github.com/yaroslav-redin/mrsu-flutter">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=mrsu-flutter&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=7c3aed">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=mrsu-flutter&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&border_color=8b5cf6">
-      <img alt="mrsu-flutter" src="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=mrsu-flutter">
-    </picture>
-  </a>
-</p>
-
 - **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы.
 - **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter.
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaroslav-redin&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=7c3aed&locale=ru">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaroslav-redin&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&border_color=8b5cf6&locale=ru">
-    <img height="170" alt="Статистика" src="https://github-readme-stats.vercel.app/api?username=yaroslav-redin&show_icons=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-redin&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=7c3aed&locale=ru">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-redin&layout=compact&bg_color=ffffff&title_color=7c3aed&text_color=1f2328&border_color=8b5cf6&locale=ru">
-    <img height="170" alt="Языки" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-redin&layout=compact">
-  </picture>
-</p>
 
 <p align="center">
   <picture>
@@ -105,16 +78,23 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaroslav-redin/yaroslav-redin/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaroslav-redin/yaroslav-redin/output/github-snake.svg">
+    <img alt="Змейка по графику контрибьюций" src="https://raw.githubusercontent.com/yaroslav-redin/yaroslav-redin/output/github-snake-dark.svg">
+  </picture>
+</p>
+
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
 
-Открыт к сотрудничеству, стажировкам и интересным проектам.
+Открыт к сотрудничеству и интересным проектам.
 
 - <img src="https://img.shields.io/badge/-Telegram-8b5cf6?style=flat&logo=telegram&logoColor=white" alt=""> [@sigmaslav_13](https://t.me/sigmaslav_13)
 - <img src="https://img.shields.io/badge/-Email-8b5cf6?style=flat&logo=gmail&logoColor=white" alt=""> [yaroslavredin04@gmail.com](mailto:yaroslavredin04@gmail.com)
 
-<!-- ===== Подвал ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,100:0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8b5cf6,100:ffffff">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,100:0d1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:0d1117&text=Спасибо%20за%20визит!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,100:ffffff&text=Спасибо%20за%20визит!&fontSize=22&fontColor=1f2328&fontAlignY=70&animation=twinkling">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:0d1117&animation=twinkling">
 </picture>
