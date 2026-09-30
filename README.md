@@ -1,7 +1,8 @@
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,35:2e1065,70:6d28d9,100:a78bfa&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,35:ede9fe,70:c4b5fd,100:8b5cf6&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=1f2328&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60&animation=fadeIn">
-  <img alt="Редин Ярослав Александрович" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,35:2e1065,70:6d28d9,100:a78bfa&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
+   <source media="(prefers-color-scheme: dark)" srcset="assets/banners/waves-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banners/waves-header-light.svg">
+  <img alt="Редин Ярослав Александрович" src="assets/banners/silk-header-dark.svg" width="100%">
 </picture>
 
 <p align="center">
