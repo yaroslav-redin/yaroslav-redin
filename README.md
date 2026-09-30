@@ -26,7 +26,7 @@
 
 ## <img src="assets/icons/briefcase1.svg" width="22" height="22" alt=""> Карьера
 
-<img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · Разработчик CRM-систем · <a href="https://longcatdev.com/">longcatdev.com</a><br>
+**Разработчик CRM-систем** · <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
 
 ## <img src="assets/icons/graduation-cap.svg" width="22" height="22" alt=""> Образование
