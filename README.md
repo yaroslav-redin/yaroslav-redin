@@ -19,28 +19,28 @@
   <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
 </picture>
 
-## <img src="https://api.iconify.design/line-md/account.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> О себе
+## <img src="assets/icons/user.svg" width="24" height="24" alt=""> О себе
 
 Программный инженер. Специализируюсь на разработке **веб-приложений** полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. <br> Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
+<br> Интересуюсь следующими направлениями:<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="32" height="32" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД <br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" width="32" height="32" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" width="32" height="32" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" width="32" height="26" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных<br><br>
 
-- <img src="https://api.iconify.design/line-md/compass-loop.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД
-- <img src="https://api.iconify.design/line-md/lightbulb-twotone.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач
-- <img src="https://api.iconify.design/line-md/cellphone.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter
-- <img src="https://api.iconify.design/line-md/gauge-loop.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных
-
-## <img src="https://api.iconify.design/line-md/briefcase.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Карьера
+## <img src="assets/icons/briefcase1.svg" width="24" height="24" alt=""> Карьера
 
 **Разработчик CRM-систем** · <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
 
-## <img src="https://api.iconify.design/line-md/document-list.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Образование
+## <img src="assets/icons/graduation-cap.svg" width="24" height="24" alt=""> Образование
 
 **Магистратура** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2026 — 2028</sub> <br> <br>
 **Бакалавриат** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2022 — 2026</sub><br>
 
-## <img src="https://api.iconify.design/line-md/grid-3.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Технологический стек
+## <img src="assets/icons/layers.svg" width="24" height="24" alt=""> Технологический стек
 
 **Backend**
 
@@ -67,12 +67,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## <img src="https://api.iconify.design/line-md/github-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
+## <img src="assets/icons/folder-git-2.svg" width="24" height="24" alt=""> Проекты
 
 **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы. <br> <br>
 **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter. <br>
 
-## <img src="https://api.iconify.design/line-md/speedometer-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
+## <img src="assets/icons/activity.svg" width="24" height="24" alt=""> Статистика GitHub
 
 <p align="center">
   <picture>
@@ -90,7 +90,7 @@
   </picture>
 </p>
 
-## <img src="https://api.iconify.design/line-md/email.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
+## <img src="assets/icons/mail.svg" width="24" height="24" alt=""> Контакты
 
 Открыт к сотрудничеству и интересным проектам.
 
