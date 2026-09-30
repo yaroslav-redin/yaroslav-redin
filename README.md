@@ -9,6 +9,8 @@
 </p>
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/dividers/twin-waves-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
   <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
