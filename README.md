@@ -8,9 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL;Machine%20Learning%20%26%20Data%20Analytics" alt="Typing SVG">
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
 
-## <img src="assets/icons/account.svg" width="22" height="22" alt=""> О себе
+## <img src="https://api.iconify.design/lucide/user.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> О себе
 
 Программный инженер, выпускник бакалавриата **МГУ им. Н. П. Огарёва**. Специализируюсь на разработке веб-приложений полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
@@ -20,19 +24,37 @@
   <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
 </picture>
 
-## <img src="assets/icons/briefcase.svg" width="22" height="22" alt=""> Карьера
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
+
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Карьера
 
 <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · Разработчик CRM-систем · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
 
-## <img src="assets/icons/document-list.svg" width="22" height="22" alt=""> Образование
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
+
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Образование
 
 **Магистратура** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2026 — 2028</sub> <br> <br>
 **Бакалавриат** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2022 — 2026</sub><br>
 
-## <img src="assets/icons/grid-3.svg" width="22" height="22" alt=""> Технологический стек
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
+
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Технологический стек
 
 **Backend**
 
@@ -59,12 +81,24 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## <img src="https://api.iconify.design/line-md/github-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
+
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
 
 **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы. <br> <br>
 **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter. <br>
 
-## <img src="https://api.iconify.design/line-md/speedometer-loop.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
 
 <p align="center">
   <picture>
@@ -82,7 +116,13 @@
   </picture>
 </p>
 
-## <img src="assets/icons/email.svg" width="22" height="22" alt=""> Контакты
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
+  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
+</picture>
+
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
 
 Открыт к сотрудничеству и интересным проектам.
 
