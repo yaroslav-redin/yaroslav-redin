@@ -1,8 +1,8 @@
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="assets/banners/waves-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banners/waves-header-light.svg">
-  <img alt="Редин Ярослав Александрович" src="assets/banners/silk-header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,40:6d28d9,75:8b5cf6,100:a78bfa">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,35:ede9fe,70:c4b5fd,100:8b5cf6">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,40:6d28d9,75:8b5cf6,100:a78bfa">
 </picture>
 
 <p align="center">
@@ -97,7 +97,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,30:6d28d9,65:2e1065,100:0d1117&text=Спасибо%20за%20визит!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,30:c4b5fd,65:ede9fe,100:ffffff&text=Спасибо%20за%20визит!&fontSize=22&fontColor=1f2328&fontAlignY=70&animation=twinkling">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,30:6d28d9,65:2e1065,100:0d1117&animation=twinkling">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,25:8b5cf6,60:6d28d9,100:4c1d95">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,30:c4b5fd,65:ede9fe,100:ffffff">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a78bfa,25:8b5cf6,60:6d28d9,100:4c1d95">
 </picture>
