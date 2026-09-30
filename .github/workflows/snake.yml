@@ -2,8 +2,8 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # каждые 12 часов
-  workflow_dispatch:          # ручной запуск из вкладки Actions
+    - cron: "0 */12 * * *"  
+  workflow_dispatch:          
   push:
     branches: [main]
 
@@ -15,13 +15,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#161b22,#3b2a6b,#5b3fb0,#7c3aed,#a78bfa
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate growing snake SVGs
+        run: python3 .github/snake/generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT_DIR: dist
+          SNAKE_INIT_LEN: "3"    
+          SNAKE_MAX_LEN: "40"    
+          SNAKE_STEP: "0.07"    
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
