@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL;Machine%20Learning%20%26%20Data%20Analytics;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20CRM-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B2%20%C2%AB%D0%9B%D0%BE%D0%BD%D0%B3%20%D0%9A%D1%8D%D1%82%C2%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Laravel%20%C2%B7%20Vue.js%20%C2%B7%20PostgreSQL;Machine%20Learning%20%26%20Data%20Analytics" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -19,10 +19,36 @@
 
 Программный инженер, выпускник бакалавриата **МГУ им. Н. П. Огарёва**. Специализируюсь на разработке веб-приложений полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
-<img src="assets/icons/compass.svg" width="16" height="16" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД <br>
-<img src="assets/icons/lightbulb-twotone.svg" width="16" height="16" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач <br>
-<img src="assets/icons/cellphone.svg" width="16" height="16" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter <br>
-<img src="assets/icons/gauge.svg" width="16" height="16" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных <br>
+<table width="100%">
+<tr>
+<td width="100%">
+<img src="assets/icons/compass.svg" width="36" height="36" align="left" alt="">
+<b>Full-stack веб-разработка</b><br>
+<sub>Laravel + Vue.js, REST API, реляционные СУБД</sub>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<img src="assets/icons/lightbulb-twotone.svg" width="36" height="36" align="left" alt="">
+<b>Machine Learning</b><br>
+<sub>Языковые модели, их обучение и алгоритмы для прикладных задач</sub>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<img src="assets/icons/cellphone.svg" width="36" height="36" align="left" alt="">
+<b>Мобильная разработка</b><br>
+<sub>Кроссплатформенные приложения на Flutter</sub>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<img src="assets/icons/gauge.svg" width="36" height="36" align="left" alt="">
+<b>Аналитика данных</b><br>
+<sub>Обработка, визуализация и интерпретация данных</sub>
+</td>
+</tr>
+</table>
 
 ## <img src="assets/icons/briefcase.svg" width="22" height="22" alt=""> Карьера
 
@@ -31,9 +57,9 @@
 
 ## <img src="assets/icons/document-list.svg" width="22" height="22" alt=""> Образование
 
-**Магистратура** · МГУ им. Н. П. Огарёва · Программная инженерия<br>
+**Магистратура** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2026 — 2028</sub> <br> <br>
-**Бакалавриат** · МГУ им. Н. П. Огарёва · Программная инженерия<br>
+**Бакалавриат** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2022 — 2026</sub><br>
 
 ## <img src="assets/icons/grid-3.svg" width="22" height="22" alt=""> Технологический стек
