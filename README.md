@@ -18,24 +18,11 @@
 
 Программный инженер. Специализируюсь на разработке **веб-приложений** полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. <br> Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/tiles/badge-fullstack.svg" width="40" height="40" alt=""></td>
-    <td><b>Full-stack веб-разработка</b><br><sub>Laravel + Vue.js, REST API, реляционные СУБД</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tiles/badge-ml.svg" width="40" height="40" alt=""></td>
-    <td><b>Machine Learning</b><br><sub>Языковые модели, их обучение и алгоритмы для прикладных задач</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tiles/badge-mobile.svg" width="40" height="40" alt=""></td>
-    <td><b>Мобильная разработка</b><br><sub>Кроссплатформенные приложения на Flutter</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tiles/badge-analytics.svg" width="40" height="40" alt=""></td>
-    <td><b>Аналитика данных</b><br><sub>Обработка, визуализация и интерпретация данных</sub></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tiles/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tiles/about-light.svg">
+  <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
+</picture>
 
 ## <img src="assets/icons/briefcase1.svg" width="22" height="22" alt=""> Карьера
 
