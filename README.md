@@ -1,16 +1,120 @@
-## Hi there 👋
+<!-- ===== Шапка ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ffffff,100:8b5cf6&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=1f2328&fontAlignY=38&desc=Программный%20инженер%20·%20Full-stack%20·%20ML%20·%20Data%20Analytics&descSize=16&descAlignY=60">
+  <img alt="Редин Ярослав Александрович" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:7c3aed&text=Редин%20Ярослав%20Александрович&fontSize=34&fontColor=ffffff&fontAlignY=38">
+</picture>
 
-<!--
-**yaroslav-redin/yaroslav-redin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/sigmaslav_13"><img src="https://img.shields.io/badge/Telegram-@sigmaslav__13-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:yaroslavredin04@gmail.com"><img src="https://img.shields.io/badge/Email-yaroslavredin04@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="https://api.iconify.design/lucide/user.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> О себе
+
+Программный инженер, выпускник бакалавриата **МГУ им. Н. П. Огарёва**. Специализируюсь на разработке веб-приложений полного цикла — от проектирования базы данных и серверной логики до пользовательского интерфейса. Параллельно развиваюсь в области **машинного обучения** и **анализа данных**, применяя их для построения аналитических систем и автоматизации.
+
+<img src="https://api.iconify.design/lucide/globe.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Full-stack веб-разработка** — Laravel + Vue.js, REST API, реляционные СУБД <br>
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Machine Learning** — языковые модели, их обучение и алгоритмы для прикладных задач <br>
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Мобильная разработка** — кроссплатформенные приложения на Flutter <br>
+<img src="https://api.iconify.design/lucide/chart-line.svg?color=%238b5cf6&width=16" width="16" height="16" alt=""> **Аналитика данных** — обработка, визуализация и интерпретация данных <br>
+
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Карьера
+
+<img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · Разработчик CRM-систем · <a href="https://longcatdev.com/">longcatdev.com</a><br>
+  <sub>2025 — настоящее время</sub>
+
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Образование
+
+**Магистратура** · МГУ им. Н. П. Огарёва · Программная инженерия<br>
+  <sub>2026 — 2028</sub> <br> <br>
+**Бакалавриат** · МГУ им. Н. П. Огарёва · Программная инженерия<br>
+  <sub>2022 — 2026</sub><br>
+
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Технологический стек
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Мобильная разработка**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Базы данных**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Системное и прикладное программирование**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
+
+<p align="center">
+  <a href="https://github.com/yaroslav-redin/analytics_reports">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=analytics_reports&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=7c3aed">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=analytics_reports&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&border_color=8b5cf6">
+      <img alt="analytics_reports" src="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=analytics_reports">
+    </picture>
+  </a>
+  <a href="https://github.com/yaroslav-redin/mrsu-flutter">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=mrsu-flutter&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=7c3aed">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=mrsu-flutter&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&border_color=8b5cf6">
+      <img alt="mrsu-flutter" src="https://github-readme-stats.vercel.app/api/pin/?username=yaroslav-redin&repo=mrsu-flutter">
+    </picture>
+  </a>
+</p>
+
+- **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы.
+- **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter.
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaroslav-redin&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=7c3aed&locale=ru">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaroslav-redin&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&border_color=8b5cf6&locale=ru">
+    <img height="170" alt="Статистика" src="https://github-readme-stats.vercel.app/api?username=yaroslav-redin&show_icons=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-redin&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=7c3aed&locale=ru">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-redin&layout=compact&bg_color=ffffff&title_color=7c3aed&text_color=1f2328&border_color=8b5cf6&locale=ru">
+    <img height="170" alt="Языки" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-redin&layout=compact">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yaroslav-redin&locale=ru&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yaroslav-redin&locale=ru&background=ffffff&border=8b5cf6&stroke=8b5cf6&ring=7c3aed&fire=7c3aed&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=yaroslav-redin">
+  </picture>
+</p>
+
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
+
+Открыт к сотрудничеству, стажировкам и интересным проектам.
+
+- <img src="https://img.shields.io/badge/-Telegram-8b5cf6?style=flat&logo=telegram&logoColor=white" alt=""> [@sigmaslav_13](https://t.me/sigmaslav_13)
+- <img src="https://img.shields.io/badge/-Email-8b5cf6?style=flat&logo=gmail&logoColor=white" alt=""> [yaroslavredin04@gmail.com](mailto:yaroslavredin04@gmail.com)
+
+<!-- ===== Подвал ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,100:0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8b5cf6,100:ffffff">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,100:0d1117">
+</picture>
