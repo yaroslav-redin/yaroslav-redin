@@ -47,6 +47,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
 
@@ -67,13 +68,26 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+**DevOps и инструменты**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ## <img src="assets/icons/folder-git-2.svg" width="24" height="24" alt=""> Проекты
 
 > [!IMPORTANT]
 > Основная часть моей работы ведётся в **GitLab** в рамках коммерческих проектов и находится под NDA, поэтому публично недоступна. Здесь представлены учебные (выполненны в рамках обучения в университете) и пет-проекты.
 
-**[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы. <br> <br>
-**[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter. <br>
+**[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов по опросам. Разработано по заказу отдела менеджмента качества МГУ им. Н. П. Огарёва и выполнено в рамках дипломной работы. Интегрировано с ЭИОС университета (авторизация и выгрузка опросов) и ИИ-агентом GigaChat для анализа данных и прикладных задач. <br> **Развёрнуто на сервере университета и используется в работе.** <br> 
+<sub>Python · FastAPI · ЭИОС API · GigaChat API</sub>
+
+**[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — мобильное приложение для электронной информационно-образовательной среды (ЭИОС) МГУ им. Н. П. Огарёва. Работает через API ЭИОС: после входа в аккаунт студент может просматривать расписание, оценки и другие данные. Создано в процессе изучения Flutter.<br>
+<sub>Flutter · Dart · ЭИОС API</sub>
+
+**[survey-parser-and-yandex_quiz-create](https://github.com/yaroslav-redin/survey-parser-and-yandex_quiz-create)** — парсер тестов с сайта gos-sluzhba.ru и скрипт, автоматически создающий аналогичные квизы в Яндекс Формах.<br>
+<sub>Python · Парсинг · Автоматизация</sub>
+
+**[job-parser](https://github.com/yaroslav-redin/job-parser)** — веб-приложение с доской вакансий, собранных парсером с hh.ru, Авито и других рекрутинговых площадок.<br>
+<sub>Python · FastAPI · Vue 3 · PostgreSQL · Docker · Парсинг</sub>
 
 ## <img src="assets/icons/activity.svg" width="24" height="24" alt=""> Статистика GitHub
 
