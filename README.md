@@ -24,22 +24,14 @@
   <img alt="Full-stack веб-разработка · Machine Learning · Мобильная разработка · Аналитика данных" src="assets/tiles/about-dark.svg" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
-  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
-</picture>
+
 
 ## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Карьера
 
 <img src="https://longcatdev.com/favicon.ico" width="18" height="18" alt=""> **ООО «Лонг Кэт»** · Разработчик CRM-систем · <a href="https://longcatdev.com/">longcatdev.com</a><br>
   <sub>2025 — настоящее время</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
-  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
-</picture>
+
 
 ## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Образование
 
@@ -47,12 +39,6 @@
   <sub>2026 — 2028</sub> <br> <br>
 **Бакалавриат** · <img src="https://mrsu.ru/local/templates/mrsu2021/assets/images/favicons/favicon_mrsu70.svg" width="16" height="16" alt=""> МГУ им. Н. П. Огарёва · Программная инженерия<br>
   <sub>2022 — 2026</sub><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
-  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
-</picture>
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Технологический стек
 
@@ -81,22 +67,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
-  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
-</picture>
-
 ## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
 
 **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы. <br> <br>
 **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter. <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
-  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
-</picture>
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
 
@@ -116,11 +90,6 @@
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dividers/twin-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/dividers/twin-waves-light.svg">
-  <img alt="" src="assets/dividers/twin-waves-dark.svg" width="100%">
-</picture>
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Контакты
 
