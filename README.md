@@ -65,8 +65,8 @@
 
 ## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Проекты
 
-- **[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы.
-- **[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter.
+**[analytics_reports](https://github.com/yaroslav-redin/analytics_reports)** — веб-приложение для автоматизированной генерации аналитических отчётов: сбор и обработка данных, формирование сводных показателей и визуализаций. Выполнено в рамках выпускной квалификационной работы.
+**[mrsu-flutter](https://github.com/yaroslav-redin/mrsu-flutter)** — кроссплатформенное мобильное приложение для студентов МГУ им. Н. П. Огарёва на Flutter.
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b5cf6&width=22" width="22" height="22" alt=""> Статистика GitHub
 
@@ -90,8 +90,8 @@
 
 Открыт к сотрудничеству и интересным проектам.
 
-- <img src="https://img.shields.io/badge/-Telegram-8b5cf6?style=flat&logo=telegram&logoColor=white" alt=""> [@sigmaslav_13](https://t.me/sigmaslav_13)
-- <img src="https://img.shields.io/badge/-Email-8b5cf6?style=flat&logo=gmail&logoColor=white" alt=""> [yaroslavredin04@gmail.com](mailto:yaroslavredin04@gmail.com)
+<img src="https://img.shields.io/badge/-Telegram-8b5cf6?style=flat&logo=telegram&logoColor=white" alt=""> [@sigmaslav_13](https://t.me/sigmaslav_13) <br>
+<img src="https://img.shields.io/badge/-Email-8b5cf6?style=flat&logo=gmail&logoColor=white" alt=""> [yaroslavredin04@gmail.com](mailto:yaroslavredin04@gmail.com) <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:0d1117&text=Спасибо%20за%20визит!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling">
